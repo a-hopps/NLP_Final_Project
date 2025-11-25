@@ -1,1 +1,1 @@
-Repository Containing Code for Luca Araujo and Allie Hopper's project for Natural Language Processing, Carleton College Fall 2025.
+Repository Containing Code for Luca Araujo and Allie Hopper's project for Natural Language Processing, Carleton College Fall 2025. BigBird code does not fully run, and has been exculded from the paper. Dinu analysis already has the data to analyze, but Dinu Experiment Code contains the code to run the evaluation of the model. Includes a readme with instructions on how to run. LSTM code can be run locally on any machine.
