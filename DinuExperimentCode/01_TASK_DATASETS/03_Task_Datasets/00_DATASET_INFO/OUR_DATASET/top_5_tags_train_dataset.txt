@@ -1,0 +1,7 @@
+dict_keys(['data structures', 'greedy', 'math', 'implementation', 'dp'])
+Tag Counts:
+data structures: 1008
+greedy: 1677
+math: 1631
+implementation: 1496
+dp: 1182

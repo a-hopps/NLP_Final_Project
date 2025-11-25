@@ -1,0 +1,22 @@
+dict_keys(['implementation', 'binary search', 'math', 'number theory', 'greedy', 'graphs', 'data structures', 'geometry', 'sortings', 'dp', 'brute force', 'combinatorics', 'dfs and similar', 'constructive algorithms', 'trees', 'strings', 'two pointers', 'dsu', 'bitmasks', 'divide and conquer'])
+Tag Counts:
+implementation: 1496
+binary search: 612
+math: 1631
+number theory: 441
+greedy: 1677
+graphs: 596
+data structures: 1008
+geometry: 179
+sortings: 638
+dp: 1182
+brute force: 992
+combinatorics: 394
+dfs and similar: 529
+constructive algorithms: 978
+trees: 467
+strings: 410
+two pointers: 333
+dsu: 206
+bitmasks: 339
+divide and conquer: 163

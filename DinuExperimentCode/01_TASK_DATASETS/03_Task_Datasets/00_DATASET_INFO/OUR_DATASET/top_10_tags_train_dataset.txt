@@ -1,0 +1,12 @@
+dict_keys(['greedy', 'dp', 'graphs', 'brute force', 'math', 'constructive algorithms', 'sortings', 'implementation', 'binary search', 'data structures'])
+Tag Counts:
+greedy: 1677
+dp: 1182
+graphs: 596
+brute force: 992
+math: 1631
+constructive algorithms: 978
+sortings: 638
+implementation: 1496
+binary search: 612
+data structures: 1008
